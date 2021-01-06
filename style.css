@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size:50px;
+    color: #363958;
+}
+h2{
+    font-size:40px;
+    color: #363958;
+}
+p{
+    color:dimgray;
+}
+.salmon-highlight{
+      color: salmon;
+}
+
+.half-width{   
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:70%;
+}
+.Working-Project{
+    margin-top: 40px;
+    text-align: center;
+    background-color:#E5E5E5;
+}
+section{
+   
+    height: 500px;
+    padding-bottom: 100px;
+}
+.Services{
+    text-align: center;
+    background-color:#E5E5E5;
+
+}
+.link-button{
+        text-decoration:none;
+        background-image: linear-gradient( 45deg, lightsalmon, tomato );
+        padding: 10px 20px;
+        border: 1px solid black;
+        border-radius: 5px ;
+        color: rgb(221, 205, 205);
+        font-weight: 700;
+    }
+.single-experience{
+        box-shadow: 10px 10px 40px gray ;
+        border-radius: 10px;
+        height: 80%;
+        background-color: white;
+    
+    }
+ .single-service{
+        box-shadow: 10px 10px 40px gray ;
+       
+        border-radius: 10px;
+        height: 60%;
+        background-color: white;
+    
+    }
+    .Services{
+        margin-top: 100px;
+    }
+.one-third-width h3{
+        color:#1d2449;
+    }
+.one-third-width{
+    width:25%;
+    float: left;
+    margin-left:5%;
+    padding-left: 2%;
+}
+.Container{
+    position: relative;
+    text-align: center;
+    color:white;
+    margin-top: 200px;
+}
+.top-left {
+    position: absolute;
+    top: 25%;
+    left:30%;    
+}
+.centered {
+    text-decoration:none;
+     background-image: linear-gradient( 45deg, lightsalmon, tomato );
+     padding: 10px 20px;
+     border-radius: 5px ;
+     color: rgb(221, 205, 205);
+     font-weight: 700;
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    transform: translate(-20%, -15%);
+  }
+.top-left h2{
+    color:white;
+}
+
+footer {
+    text-align: center;
+    color: gray;
+    margin-top: 30px;
+}
+ img{
+    width:2%;
+}
+   
+    
